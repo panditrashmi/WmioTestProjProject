@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: WmioTestProjProject
+  gitServerName: WmioTestProj
+  gitUrl: https://github.com/panditrashmi/WmioTestProjProject
+  gitUsername: panditrashmi
+  gitBranch: main
